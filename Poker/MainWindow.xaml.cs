@@ -20,6 +20,7 @@ namespace Poker
     /// </summary>
     public partial class MainWindow : Window
     {
+        // тест
         public MainWindow()
         {
             InitializeComponent();
